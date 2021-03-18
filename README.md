@@ -1,50 +1,27 @@
-# Zoo
+# Horiseon
 
-## Site Picture
-![Site](chrome_vGiqS64eLn.png)
+
+![Site](./assets/images/screenshot.png)
 
 ## Technologies Used
-- HTML - used to create elements on the DOM
+- HTML - Creates text and differents elements 
 - CSS - styles html elements on page
-- Git - version control system to track changes to source code
-- GitHub - hosts repository that can be deployed to GitHub Pages
+- GitHub - hosts and deploys the pages
+- Bash - Terminal
 
 ## Summary 
-This application contains a list of zoo animals!
+This is the homepage of Horiseon's website.
+They specialize in SEO, Reputation managment, and social media Marketing.
 
-## Code Snippet
-```html
-<h1>Zoo</h1>
-    <img src="https://ichef.bbci.co.uk/childrens-responsive-ichef-live/r/720/1x/cbbc/the_zoo_who_are_you_quiz_index_new.jpg" alt="zoo">
-    <ul>
-        <li>Lion</li>
-        <li>Elephant</li>
-        <li>Seal</li>
-        <li>Buffalo</li>
-        <li>Giraffe</li>
-        <li>Penguin</li>
-        <li>Turtle</li>
-        <li>Whale</li>
-    </ul>
-```
+## 2021-3-18 Changes
+- Restructure HTML5 to meet Semantic norms
+- Comment CSS and made more clear
+- Add alt attribute to all <img /> tags 
+- Add page title
 
-```html
-<html>
 
-</html>
-```
 
 
 ## Author Links
-[LinkedIn](https://www.linkedin.com/in/dchicchon/)
-[GitHub](https://github.com/dchicchon)
-
-# Homework-1
-2021-3-15
-add alt to heo
-file readme, good examples in activity 25
-remove folder
-
-check if use sections in aside ?
-header tag ?
-figure tag
+[LinkedIn](https://www.linkedin.com/in/dcouzon/)
+[GitHub](https://github.com/Dylancouzon)
