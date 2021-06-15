@@ -11,26 +11,20 @@
 2. [Summary](#Summary)
 3. [Changelog](#Changelog)
 3. [Author](#Author)
-
-<hr>
 <br>
-
+<hr>
 
 ## Technology
-- HTML - Creates text and differents elements 
-- CSS - styles html elements on page
-- GitHub - hosts and deploys the pages
-- Bash - Terminal
+<img align="left" alt="HTML" width="25x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/> &nbsp;
+<img align="left" alt="JavaScript" width="25x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/> &nbsp;
 <br>
 <hr>
-<br>
 
 ## Summary 
 This is the homepage of Horiseon's website.
 They specialize in SEO, Reputation managment, and social media Marketing.
 <br>
 <hr>
-<br>
 
 ## Changelog
 ### 2021-3-18
@@ -40,7 +34,6 @@ They specialize in SEO, Reputation managment, and social media Marketing.
 - Add page title
 <br>
 <hr>
-<br>
 
 ## Author
 [LinkedIn](https://www.linkedin.com/in/dcouzon/)
